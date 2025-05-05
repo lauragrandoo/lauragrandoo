@@ -1,10 +1,8 @@
-### Hi, I'm Laura 💻
+### Hi! I'm Laura 💻
 
 Here I share my academic experiences, personal projects and courses to improve my skills.<br>
 I've worked as a software tester for the last 3 years and today I'm trying to improve my skills as a developer.<br>
 My passion for the back-end kept me around for a while, but my desire to learn led me to venture into web development with a focus on the front-end at this stage in my life.
-
-📍From Brazil, living in Erechim/RS
 
 </br>
 <div align="center">
