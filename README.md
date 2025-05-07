@@ -7,7 +7,7 @@ My passion for the back-end kept me around for a while, but my desire to learn l
 </br>
 <div align="center">
   <a href="https://github.com/lauragrandoo">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauragrandoo&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauragrandoo&layout=compact&theme=radical"/>
 </div>
 </br>
     
