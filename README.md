@@ -1,8 +1,6 @@
 ### Hi! I'm Laura 💻
 
-Here I share my academic experiences, personal projects and courses to improve my skills.<br>
-I've worked as a software tester for the last 3 years and today I'm trying to improve my skills as a developer.<br>
-My passion for the back-end kept me around for a while, but my desire to learn led me to venture into web development with a focus on the front-end at this stage in my life.
+Here I share projects I've done in courses and at university, as well my personal projects. Welcome to my little world!
 
 </br>
 <div align="center">
