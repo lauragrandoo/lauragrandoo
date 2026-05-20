@@ -25,3 +25,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-lauragrandoo-f5f5f5?style=flat&logo=github)](https://github.com/lauragrandoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lauraagrando-f5f5f5?style=flat&logo=linkedin)](https://linkedin.com/in/lauraagrando)
 [![Email](https://img.shields.io/badge/Email-lauraagrando@gmail.com-f5f5f5?style=flat&logo=gmail&logoColor=white)](mailto:lauraagrando@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conectar-f5f5f5?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5554999267104)
