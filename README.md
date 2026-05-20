@@ -19,6 +19,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 <br>
+
 ##### Find me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-lauragrandoo-f5f5f5?style=flat&logo=github)](https://github.com/lauragrandoo)
