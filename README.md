@@ -1,6 +1,5 @@
 ### Hi ☺️
-
-<h5> I worked for some years as a Quality Assurance Analyst, which taught me to think analytically, be critical of processes, and pay close attention to detail. Today, I apply that same mentality to data and business. My current focus is on understanding how data tells stories and generates real value. Welcome to my little world!</h6><br>
+<h5> Welcome to my little world!</h6><br>
 
 <!--##### I am currently working with:-->
 
